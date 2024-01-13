@@ -22,7 +22,7 @@ Error Page
 	height: 100%;
 	position: fixed;
 
-	background: url(../../../assets/images/background/error-bg.jpg) center;
+	background: url(../../assets/images/background/error-bg.jpg) center;
 	width: 100%; }
 	.error-box .footer {
 	  width: 100%;
