@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class Grafica1Component {
 
+public labels1:string[] = ['Enero', 'Febrero', 'Marzo']
+public data1:number[] = [300, 500, 100]
+public colors1:string[] = ['#FF6384', '#36A2EB', '#FFCE56']
+
+
 }

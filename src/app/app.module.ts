@@ -9,6 +9,7 @@ import { NoPageFoundComponent } from './no-page-found/no-page-found.component';
 
 import { PagesModule } from './pages/pages.module';
 import { AuthModule } from './auth/auth.module';
+import { NgChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AuthModule } from './auth/auth.module';
     BrowserModule,
     AppRoutingModule,
 	 PagesModule,
-	 AuthModule
+	 AuthModule,
+	 NgChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

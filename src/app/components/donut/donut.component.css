@@ -1,0 +1,14 @@
+.card-body {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
+}
+h2 {
+	width: 100%;
+}
+.chart {
+	width: 45%;
+
+}
+
